@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, my name is Joonyoung
+#### I am currently studying business
+![I am currently studying business](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this github for anywhere who need it.
+
+Skills: Python / R 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

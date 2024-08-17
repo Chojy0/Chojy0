@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, my name is Joonyoung
-#### I am currently studying business
-![I am currently studying business](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am currently preparing for graduate school.
+#### I have a strong interest in exploring the intersection of AI and business management.
 
-I made this github for anywhere who need it.
 
-Skills: Python / R 
+#### Hope my GitHub can be of help to you.
+#### So..
+## Have a lovely day! 
 
-- 🔭 I’m currently working on this page. 
 
 
 

@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to Chojy0's GitHub 🌱
-#### I am currently preparing for graduate school.
-#### I have a strong interest in exploring the intersection of AI and business management.
+#### 
+#### 
 
 
 #### Hope my GitHub can be of help to you.

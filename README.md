@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 #### 
 
 
-#### Hope my GitHub can be of help to you.
-#### So..
-## Have a lovely day! 
 
 
 
